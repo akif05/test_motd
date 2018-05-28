@@ -1,3 +1,5 @@
 # tets_motd
-Test puppet motd
-Addd new line
+Test puppet motd\n
+Addd new line\n
+AAAAAAAAAAAAAAAa
+
